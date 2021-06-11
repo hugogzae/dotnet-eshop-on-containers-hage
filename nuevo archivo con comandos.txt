@@ -1,0 +1,7 @@
+Una versión de archivos diferentes para la clase de Desarrollo de Apps.
+
+Verificación de los 3 comandos utilizados en git.
+
+git add --all
+git commit -m "Commit nuevo"
+git push --all
