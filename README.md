@@ -43,6 +43,7 @@ Web SPA :  http://host.docker.internal:5104/
 Below are the other avenues to setup *eShopOnContainers*.
 
 ### Basic scenario
+### Basic (Cambio para verificar extensión)
 
 The basic scenario can be run locally using docker-compose, and also deployed to a local Kubernetes cluster. Refer to these Wiki pages to Get Started:
 
